@@ -1,5 +1,10 @@
 # SkillSwap - Community Skill Exchange Platform
 
+<!-- documentation-navigation -->
+[Developer guide](docs/PROJECT_GUIDE.md) · [Source reference](docs/REFERENCE.md) · [Contributing](CONTRIBUTING.md)
+<!-- /documentation-navigation -->
+
+
 A full-stack MERN application that connects people who want to share skills and learn from each other.
 
 ## 🚀 Features
