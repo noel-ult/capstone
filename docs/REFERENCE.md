@@ -1,7 +1,6 @@
 # capstone source reference
 
-
-Source reviewed: [`60cd87a2c616`](https://github.com/noel-ult/capstone/commit/60cd87a2c6164189939af2dc420d7b680aa2c6ba).
+Source reviewed: [`bb2c96c06970`](https://github.com/noel-ult/capstone/commit/bb2c96c06970cdb960eeab7b7eb780b9c47e1b97).
 
 This reference records the checked-in source, scripts, configuration names, and route declarations. It is a navigation aid; service availability and successful test execution require separate verification.
 
@@ -84,7 +83,10 @@ Paths are **as declared in each source file**. Router/blueprint mount prefixes f
 
 Historical plans/reports describe their own revision; use current source when they disagree.
 
+- [CONTRIBUTING.md](../CONTRIBUTING.md)
 - [README.md](../README.md)
+- [docs/PROJECT_GUIDE.md](../docs/PROJECT_GUIDE.md)
+- [docs/REFERENCE.md](../docs/REFERENCE.md)
 
 ## Source and configuration map
 
