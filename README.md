@@ -43,7 +43,7 @@ A full-stack MERN application that connects people who want to share skills and 
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/noel-ult/capstone.git
 cd skillswap
 ```
 
@@ -212,3 +212,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 For support or questions, please create an issue in the repository.
+
+<!-- developer-handbook-20261028 -->
+[Developer guide](docs/PROJECT_GUIDE.md) · [Source reference](docs/REFERENCE.md) · [Verification and operations](docs/OPERATIONS.md)
+<!-- /developer-handbook-20261028 -->
